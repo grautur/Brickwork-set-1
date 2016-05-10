@@ -1,0 +1,706 @@
+{
+  "AO-Brickwall/Full-H": {
+      "displayName": "Brickwall/Full-H",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_full-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Half-H/Lower": {
+      "displayName": "Brickwall/Half-H/Lower",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_half-h_lower",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Half-H/Upper": {
+      "displayName": "Brickwall/Half-H/Upper",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_half-h_upper",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Fifth-H": {
+      "displayName": "Brickwall/Fifth-H",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_fifth-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Full-H": {
+      "displayName": "Brickwall-Half/Full-H",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_full-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Half-H/Lower": {
+      "displayName": "Brickwall-Half/Half-H/Lower",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_half-h_lower",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Half-H/Upper": {
+      "displayName": "Brickwall-Half/Half-H/Upper",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_half-h_upper",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Fifth-H": {
+      "displayName": "Brickwall-Half/Fifth-H",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_fifth-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Qtr/Full-H": {
+      "displayName": "Brickwall-Qtr/Full-H",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-qtr_full-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 4.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Qtr/Half-H/Lower": {
+      "displayName": "Brickwall-Qtr/Half-H/Lower",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-qtr_half-h_lower",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 4.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Qtr/Half-H/Upper": {
+      "displayName": "Brickwall-Qtr/Half-H/Upper",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-qtr_half-h_upper",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 4.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Qtr/Fifth-H": {
+      "displayName": "Brickwall-Qtr/Fifth-H",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-qtr_fifth-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 4.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Door/Single": {
+      "displayName": "Brickwall-Door/Single",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-door_single",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Door/Double": {
+      "displayName": "Brickwall-Door/Double",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-door_double",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Window/Sm": {
+      "displayName": "Brickwall-Window/Sm",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-window_sm",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Window/Md": {
+      "displayName": "Brickwall-Window/Md",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-window_md",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Window/Lg": {
+      "displayName": "Brickwall-Window/Lg",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-window_lg",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Window/Dbl": {
+      "displayName": "Brickwall-Window/Dbl",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-window_dbl",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Full-H/Slope 1": {
+      "displayName": "Brickwall/Full-H/Slope 1",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_full-h_slope1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Full-H/Slope 2": {
+      "displayName": "Brickwall/Full-H/Slope 2",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_full-h_slope2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Half-H/Lower/Slope 1": {
+      "displayName": "Brickwall/Half-H/Lower/Slope 1",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_half-h_lower_slope1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Half-H/Lower/Slope 2": {
+      "displayName": "Brickwall/Half-H/Lower/Slope 2",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_half-h_lower_slope2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Half-H/Upper/Slope 1": {
+      "displayName": "Brickwall/Half-H/Lower/Upper 1",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_half-h_upper_slope1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall/Half-H/Upper/Slope 2": {
+      "displayName": "Brickwall/Half-H/Lower/Upper 2",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall_half-h_upper_slope2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Full-H/Slope 1": {
+      "displayName": "Brickwall-Half/Full-H/Slope 1",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_full-h_slope1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Full-H/Slope 2": {
+      "displayName": "Brickwall-Half/Full-H/Slope 2",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_full-h_slope2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Half-H/Lower/Slope 1": {
+      "displayName": "Brickwall-Half/Half-H/Lower/Slope 1",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_half-h_lower_slope1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Half-H/Lower/Slope 2": {
+      "displayName": "Brickwall-Half/Half-H/Lower/Slope 2",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_half-h_lower_slope2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Half-H/Upper/Slope 1": {
+      "displayName": "Brickwall-Half/Half-H/Upper/Slope 1",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_half-h_upper_slope1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Brickwall-Half/Half-H/Upper/Slope 2": {
+      "displayName": "Brickwall-Half/Half-H/Upper/Slope 2",
+		  "category": "Brickwork Set 1",
+		  "model": "brickwall-half_half-h_upper_slope2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#841f27",
+          "color2": "#ffffff",
+          "color3": "#FFCC99"
+        }
+  },
+  "AO-Quoin/Full-H 1": {
+      "displayName": "Quoin/Full-H 1",
+		  "category": "Brickwork Set 1",
+		  "model": "quoin_full-h1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.125,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#FFCC99"
+        }
+  },
+  "AO-Quoin/Full-H 2": {
+      "displayName": "Quoin/Full-H 2",
+		  "category": "Brickwork Set 1",
+		  "model": "quoin_full-h2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.125,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#FFCC99"
+        }
+  },
+  "AO-Quoin/Half-H 1": {
+      "displayName": "Quoin/Half-H 1",
+		  "category": "Brickwork Set 1",
+		  "model": "quoin_half-h1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.125,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#FFCC99"
+        }
+  },
+  "AO-Quoin/Half-H 2": {
+      "displayName": "Quoin/Half-H 2",
+		  "category": "Brickwork Set 1",
+		  "model": "quoin_half-h2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.125,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#FFCC99"
+        }
+  },
+  "AO-Quoin/Qtr-H 1": {
+      "displayName": "Quoin/Qtr-H 1",
+		  "category": "Brickwork Set 1",
+		  "model": "quoin_qtr-h1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.125,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#FFCC99"
+        }
+  },
+  "AO-Quoin/Qtr-H 2": {
+      "displayName": "Quoin/Qtr-H 2",
+		  "category": "Brickwork Set 1",
+		  "model": "quoin_qtr-h2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.125,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#FFCC99"
+        }
+  },
+  "AO-Spire/Full-H": {
+      "displayName": "Spire/Full-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire_full-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#927C29"
+        }
+  },
+  "AO-Spire/1.5-H": {
+      "displayName": "Spire/1.5-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire_15-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#927C29"
+        }
+  },
+  "AO-Spire/Dbl-H": {
+      "displayName": "Spire/Dbl-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire_dbl-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#927C29"
+        }
+  },
+  "AO-Spire/2.5-H": {
+      "displayName": "Spire/2.5-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire_25-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#927C29"
+        }
+  },
+  "AO-Spire/3-H": {
+      "displayName": "Spire/3-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire_3-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#927C29"
+        }
+  },
+  "AO-Spire-Half/Half-H": {
+      "displayName": "Spire-Half/Half-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire-half_half-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#D92416"
+        }
+  },
+  "AO-Spire-Half/0.75-H": {
+      "displayName": "Spire-Half/0.75-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire-half_075-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#D92416"
+        }
+  },
+  "AO-Spire-Half/Full-H": {
+      "displayName": "Spire-Half/Full-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire-half_full-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#D92416"
+        }
+  },
+  "AO-Spire-Half/1.25-H": {
+      "displayName": "Spire-Half/1.25-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire-half_125-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#D92416"
+        }
+  },
+  "AO-Spire-Half/1.5-H": {
+      "displayName": "Spire-Half/1.5-H",
+		  "category": "Brickwork Set 1",
+		  "model": "spire-half_15-h",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 2.0,
+		  "snapCenter": true,
+      "heightDelta": 0.1,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#D92416"
+        }
+  },
+}

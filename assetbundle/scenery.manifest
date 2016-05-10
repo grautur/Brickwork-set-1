@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 2862032180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc0e17e4a9dabdd87fda4a98a411c714
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/spire_3-h.obj
+- Assets/brickwall-qtr_half-h_lower.obj
+- Assets/brickwall-half_full-h_slope2.obj
+- Assets/brickwall-door_double.obj
+- Assets/brickwall-window_sm.obj
+- Assets/brickwall-half_half-h_lower_slope1.obj
+- Assets/spire_25-h.obj
+- Assets/brickwall-window_dbl.obj
+- Assets/spire-half_half-h.obj
+- Assets/brickwall_half-h_lower_slope2.obj
+- Assets/spire_dbl-h.obj
+- Assets/brickwall_half-h_lower.obj
+- Assets/quoin_qtr-h1.obj
+- Assets/brickwall_half-h_upper_slope2.obj
+- Assets/brickwall_half-h_lower_slope1.obj
+- Assets/quoin_qtr-h2.obj
+- Assets/brickwall-half_fifth-h.obj
+- Assets/brickwall_full-h.obj
+- Assets/spire_full-h.obj
+- Assets/quoin_half-h2.obj
+- Assets/brickwall-window_lg.obj
+- Assets/brickwall-half_half-h_lower.obj
+- Assets/brickwall-window_md.obj
+- Assets/spire-half_full-h.obj
+- Assets/brickwall_half-h_upper.obj
+- Assets/brickwall-half_half-h_upper.obj
+- Assets/brickwall-door_single.obj
+- Assets/brickwall_half-h_upper_slope1.obj
+- Assets/spire-half_15-h.obj
+- Assets/brickwall-qtr_full-h.obj
+- Assets/spire-half_075-h.obj
+- Assets/brickwall_full-h_slope1.obj
+- Assets/spire_15-h.obj
+- Assets/brickwall-qtr_half-h_upper.obj
+- Assets/brickwall-half_half-h_lower_slope2.obj
+- Assets/brickwall-half_full-h_slope1.obj
+- Assets/spire-half_125-h.obj
+- Assets/quoin_half-h1.obj
+- Assets/quoin_full-h2.obj
+- Assets/brickwall_fifth-h.obj
+- Assets/brickwall-half_half-h_upper_slope1.obj
+- Assets/brickwall-qtr_fifth-h.obj
+- Assets/brickwall-half_full-h.obj
+- Assets/brickwall_full-h_slope2.obj
+- Assets/brickwall-half_half-h_upper_slope2.obj
+- Assets/quoin_full-h1.obj
+Dependencies: []
