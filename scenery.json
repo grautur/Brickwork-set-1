@@ -352,7 +352,7 @@
         }
   },
   "AO-Brickwall/Half-H/Upper/Slope 1": {
-      "displayName": "Brickwall/Half-H/Lower/Upper 1",
+      "displayName": "Brickwall/Half-H/Upper/Slope 1",
 		  "category": "Brickwork Set 1",
 		  "model": "brickwall_half-h_upper_slope1",
 		  "type": "deco",
@@ -368,7 +368,7 @@
         }
   },
   "AO-Brickwall/Half-H/Upper/Slope 2": {
-      "displayName": "Brickwall/Half-H/Lower/Upper 2",
+      "displayName": "Brickwall/Half-H/Upper/Slope 2",
 		  "category": "Brickwork Set 1",
 		  "model": "brickwall_half-h_upper_slope2",
 		  "type": "deco",

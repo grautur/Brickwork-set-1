@@ -1,7 +1,7 @@
 {
     "BaseDir": "",
     "IsDevelopment": false,
-    "Name": "Grautur's Building Set 1",
+    "Name": "Brickwork Set 1",
     "Project": "Custom Scenery.csproj",
 	"AssetBundleDir": "assetbundle"
 }
